@@ -3,13 +3,13 @@
 https://github.com/user-attachments/assets/46086ef2-0165-4b44-a197-90cf2a7a5246
 
 ## Overview
-**Image Matcher** is a Streamlit app designed to find similar images from a pre-defined database. Leveraging the power of **OpenCV**, **scikit-image**, and **Local Binary Pattern (LBP)** for feature extraction, this app provides a simple and intuitive interface for image comparison.
+**Image Matcher** is a Streamlit app designed to find similar images from a pre-defined database. Leveraging the power of **OpenCV**, **scikit-image**, and **color histogram** for feature extraction, this app provides a simple and intuitive interface for image comparison.
 
 ## Features
 - **Streamlit Interface**: A user-friendly web app for image uploading and similarity search.
 - **OpenCV**: Utilized for image processing tasks.
 - **scikit-image**: Used for advanced image analysis.
-- **Local Binary Pattern (LBP)**: Employed for feature vector calculation to capture texture information.
+- **color histogram**: Employed for feature vector calculation to capture texture information.
 
 ## How It Works
 1. **Upload an Image**: Users can upload an image in JPG, PNG, or JPEG format.
