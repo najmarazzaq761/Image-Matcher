@@ -21,7 +21,7 @@ https://github.com/user-attachments/assets/46086ef2-0165-4b44-a197-90cf2a7a5246
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/image-matcher.git
+   git clone https://github.com/najmarazzaq761/image-matcher.git
    cd image-matcher
    ```
 
